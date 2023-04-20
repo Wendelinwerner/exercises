@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedTest1.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发二">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedTest11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,7 @@
       <recent name="I:\星城货运系统\wyl\exercises\src\com\wyl\exercises\FIRSTduoxianchen" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wyl.exercises.SECONDduoxianchen" />
       <recent name="com.wyl.exercises" />
     </key>
   </component>
@@ -85,7 +86,7 @@
       <workItem from="1681783230573" duration="2572000" />
       <workItem from="1681786607599" duration="1295000" />
       <workItem from="1681808473900" duration="832000" />
-      <workItem from="1681974960714" duration="4787000" />
+      <workItem from="1681974960714" duration="5762000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681977679013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="多线程与高并发二">
+      <created>1681979894536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681979894536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +135,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Account.java" />
     <MESSAGE value="多线程与高并发" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程与高并发" />
+    <MESSAGE value="多线程与高并发二" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程与高并发二" />
   </component>
 </project>
