@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发">
+      <changelist_data name="wendelinwerner" email="1058046323@qq.com" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/Account1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/STT4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wendelinwerner &lt;1058046323@qq.com&gt;" />
+        <option value="wendelinwerner" />
+        <option value="master" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OYPweW9Q0Qx5EItIBl7yHV0MGf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/wyl",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module",
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\星城货运系统\wyl\exercises\src\com\wyl\exercises\FIRSTduoxianchen" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wyl.exercises" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="" />
+      <created>1681734785656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681734785656</updated>
+      <workItem from="1681734786377" duration="4749000" />
+      <workItem from="1681741605652" duration="2681000" />
+      <workItem from="1681783230573" duration="2572000" />
+      <workItem from="1681786607599" duration="1295000" />
+      <workItem from="1681808473900" duration="832000" />
+      <workItem from="1681974960714" duration="2621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Account.java" />
+    <MESSAGE value="多线程与高并发" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程与高并发" />
+  </component>
+</project>
