@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="更新包名">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/UnsafeArrayCopy.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="更新项目名">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/SpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/SpeedTestSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,33 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.SpeedTestSelf">
+    <configuration name="SpeedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.SpeedTest" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpeedTestSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.SpeedTestSelf" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnsafeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.SECONDduoxiancheng.UnsafeArrayCopy" />
       <module name="exercises" />
@@ -112,6 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SpeedTestSelf" />
+        <item itemvalue="应用程序.SpeedTest" />
         <item itemvalue="应用程序.UnsafeArrayCopy" />
       </list>
     </recent_temporary>
@@ -130,7 +160,7 @@
       <workItem from="1681786607599" duration="1295000" />
       <workItem from="1681808473900" duration="832000" />
       <workItem from="1681974960714" duration="5762000" />
-      <workItem from="1683099976532" duration="1851000" />
+      <workItem from="1683099976532" duration="6022000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -160,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683101006961</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新项目名">
+      <created>1683102080416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683102080416</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +232,7 @@
     <MESSAGE value="多线程与高并发" />
     <MESSAGE value="多线程与高并发二" />
     <MESSAGE value="更新包名" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新包名" />
+    <MESSAGE value="更新项目名" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新项目名" />
   </component>
 </project>
