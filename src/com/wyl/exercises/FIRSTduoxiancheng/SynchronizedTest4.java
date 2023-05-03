@@ -2,7 +2,7 @@ package com.wyl.exercises.FIRSTduoxiancheng;
 
 import java.util.concurrent.TimeUnit;
 
-public class SynchronizeText4 {
+public class SynchronizedTest4 {
         synchronized void m()   {
 
             System.out.println("m start");
@@ -22,7 +22,7 @@ public class SynchronizeText4 {
     }
 
 }
-class TT extends SynchronizeText4   {
+class TT extends SynchronizedTest4 {
 
     synchronized void m() {
 

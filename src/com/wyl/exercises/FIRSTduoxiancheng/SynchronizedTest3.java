@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  * 也就是锁synchronized获得的锁是可重入的
  * @author wyl
  */
-public class SynchronizeText3 {
+public class SynchronizedTest3 {
 
     synchronized void m1()  {
 
@@ -34,6 +34,6 @@ public class SynchronizeText3 {
     }
 
     public static void main(String[] args) {
-        new SynchronizeText3().m1();
+        new SynchronizedTest3().m1();
     }
 }

@@ -1,6 +1,6 @@
 package com.wyl.exercises.FIRSTduoxiancheng;
 
-public class SynchronizeText1 implements Runnable{
+public class SynchronizedTest1 implements Runnable{
 
     private int count = 100;
     @Override
@@ -11,7 +11,7 @@ public class SynchronizeText1 implements Runnable{
 
     public static void main(String[] args){
 
-        SynchronizeText1 t = new SynchronizeText1();
+        SynchronizedTest1 t = new SynchronizedTest1();
         for (int i=0; i<100; i++){
             new Thread(t,"THREAD" + i).start();
         }

@@ -5,7 +5,7 @@ package com.wyl.exercises.FIRSTduoxiancheng;
  * 写m1延迟10000ms写m2延迟5000ms，同时调用，看是m1输出完再输出m2，还是输出m1时输出m2再结束
  * @author wyl
  */
-public class SynchronizeText2   {
+public class SynchronizedTest2 {
 
     public synchronized void m1() {
 
@@ -28,7 +28,7 @@ public class SynchronizeText2   {
     }
 
     public static void main(String[] args) {
-        SynchronizeText2 text2 = new SynchronizeText2();
+        SynchronizedTest2 text2 = new SynchronizedTest2();
 //        new Thread(text2::m1,"t1").start();
 //        new Thread(text2::m2,"t2").start();
         new Thread(()->text2.m1(),"t1").start();

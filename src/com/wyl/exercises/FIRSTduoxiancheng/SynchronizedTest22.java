@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
  * @author wyl
  */
 
-public class SynchronizeText22 {
+public class SynchronizedTest22 {
 
     synchronized void m1()  {
 
@@ -38,7 +38,7 @@ public class SynchronizeText22 {
     }
 
     public static void main(String[] args) {
-            SynchronizeText22 t = new SynchronizeText22();
+            SynchronizedTest22 t = new SynchronizedTest22();
 //            new Thread(t::m1,"t1").start();
 //            new Thread(t::m2,"t2").start();
                 new Thread(()->t.m1()).start();
