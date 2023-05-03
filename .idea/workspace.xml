@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发二">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedTest11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/Account1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/Account1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/STT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/STT4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/SynchronizeText1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/SynchronizeText2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/SynchronizeText22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/SynchronizeText3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxianchen/SynchronizeText4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/FIRSTduoxiancheng/SynchronizeText4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/AtomicInteger1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/AtomicInteger1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/Volatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/Volatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/synchronizedTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedTest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/synchronizedTest11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedYH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/synchronizedYH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxianchen/synchronizedYH01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/SECONDduoxiancheng/synchronizedYH01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +61,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/wyl",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Administrator/Documents/new/src/com/wyl/exercises",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +101,7 @@
       <workItem from="1681786607599" duration="1295000" />
       <workItem from="1681808473900" duration="832000" />
       <workItem from="1681974960714" duration="5762000" />
+      <workItem from="1683099976532" duration="1013000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -102,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681979894536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="多线程与高并发二">
+      <created>1683100160098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683100160098</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

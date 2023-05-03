@@ -1,4 +1,4 @@
-package com.wyl.exercises.FIRSTduoxianchen;
+package com.wyl.exercises.FIRSTduoxiancheng;
 
 /**
  * 同步与非同步方法是否可以同时调用

@@ -1,4 +1,4 @@
-package com.wyl.exercises.FIRSTduoxianchen;
+package com.wyl.exercises.FIRSTduoxiancheng;
 
 public class SynchronizeText1 implements Runnable{
 

@@ -1,4 +1,4 @@
-package com.wyl.exercises.SECONDduoxianchen;
+package com.wyl.exercises.SECONDduoxiancheng;
 
 import java.util.concurrent.TimeUnit;
 

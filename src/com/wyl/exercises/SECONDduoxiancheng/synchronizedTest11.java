@@ -1,4 +1,4 @@
-package com.wyl.exercises.SECONDduoxianchen;
+package com.wyl.exercises.SECONDduoxiancheng;
 
 import java.util.concurrent.TimeUnit;
 
@@ -10,32 +10,31 @@ import java.util.concurrent.TimeUnit;
  * 因此要非常小心的处理同步业务逻辑中的异常
  * @author wyl
  */
-public class synchronizedTest1 {
+public class synchronizedTest11 {
     int count = 0;
     synchronized void m()   {
         System.out.println(Thread.currentThread().getName() + "start");
-        while (true)    {
-            count ++;
-            System.out.println(Thread.currentThread().getName() + "count =" + count);
+        while (true) {
+            count++;
+            System.out.println(Thread.currentThread().getName() + "count = " + count);
             try {
-                TimeUnit.SECONDS.sleep(2);
-            }   catch (InterruptedException e)  {
+                TimeUnit.SECONDS.sleep(1);
+            } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
-            if (count == 5) {
-                int i = 1/0;
+            if (count == 3) {
+                int i = 1 / 0;
                 System.out.println(i);
             }
         }
     }
 
     public static void main(String[] args) {
-        synchronizedTest1 t = new synchronizedTest1();
-        Runnable r = new  Runnable()    {
+        synchronizedTest11 t = new synchronizedTest11();
+        Runnable r = new Runnable() {
             @Override
             public void run() {
-             t.m();
+                t.m();
             }
         };
         new Thread(r,"t1").start();
@@ -44,6 +43,13 @@ public class synchronizedTest1 {
         }   catch (InterruptedException e)  {
             e.printStackTrace();
         }
-        new  Thread(r,"t2").start();
+        new Thread(r,"t2").start();
+        try {
+            TimeUnit.SECONDS.sleep(2);
+        }   catch (InterruptedException e)  {
+            e.printStackTrace();
+        }
+        new Thread(r,"t3").start();
     }
 }
+
