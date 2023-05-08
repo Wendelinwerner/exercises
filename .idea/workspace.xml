@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="高并发与多线程三">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/WYLJDK20/lib/src.zip!/java.base/java/lang/InterruptedException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,7 +104,7 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ReentrantLockTest02">
+  <component name="RunManager" selected="应用程序.ReentrantLockTest04">
     <configuration name="ReentrantLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest" />
       <module name="exercises" />
@@ -144,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedTestSelf01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.SpeedTestSelf01" />
+    <configuration name="ReentrantLockTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest03" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -157,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnsafeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.SECONDduoxiancheng.UnsafeArrayCopy" />
+    <configuration name="ReentrantLockTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest04" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.SECONDduoxiancheng.*" />
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,6 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ReentrantLockTest04" />
+        <item itemvalue="应用程序.ReentrantLockTest03" />
         <item itemvalue="应用程序.ReentrantLockTest02" />
         <item itemvalue="应用程序.ReentrantLockTest01" />
         <item itemvalue="应用程序.ReentrantLockTest" />
@@ -198,7 +200,8 @@
       <workItem from="1683183273662" duration="735000" />
       <workItem from="1683339016661" duration="228000" />
       <workItem from="1683339254095" duration="9000" />
-      <workItem from="1683339270809" duration="6162000" />
+      <workItem from="1683339270809" duration="11574000" />
+      <workItem from="1683510146765" duration="2022000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -249,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683166019687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="高并发与多线程三">
+      <created>1683347308498</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683347308498</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +297,16 @@
     <MESSAGE value="更新项目名" />
     <MESSAGE value="高并发与多线程三" />
     <option name="LAST_COMMIT_MESSAGE" value="高并发与多线程三" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalMonitorStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
