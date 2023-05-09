@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="高并发与多线程三">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbStreamTokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxStreamTokenized.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,46 +106,7 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ReentrantLockTest04">
-    <configuration name="ReentrantLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReentrantLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest01" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReentrantLockTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest02" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.abcMaxScanner">
     <configuration name="ReentrantLockTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest03" />
       <module name="exercises" />
@@ -170,13 +133,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aAddbScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.aAddbScanner" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aAddbStreamTokenizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.aAddbStreamTokenizer" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="abcMaxScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.abcMaxScanner" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.abcMaxScanner" />
+        <item itemvalue="应用程序.aAddbScanner" />
+        <item itemvalue="应用程序.aAddbStreamTokenizer" />
         <item itemvalue="应用程序.ReentrantLockTest04" />
         <item itemvalue="应用程序.ReentrantLockTest03" />
-        <item itemvalue="应用程序.ReentrantLockTest02" />
-        <item itemvalue="应用程序.ReentrantLockTest01" />
-        <item itemvalue="应用程序.ReentrantLockTest" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +203,8 @@
       <workItem from="1683339016661" duration="228000" />
       <workItem from="1683339254095" duration="9000" />
       <workItem from="1683339270809" duration="11574000" />
-      <workItem from="1683510146765" duration="2022000" />
+      <workItem from="1683510146765" duration="5089000" />
+      <workItem from="1683595293412" duration="6962000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -259,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683347308498</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="高并发与多线程三">
+      <created>1683512896810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683512896810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
