@@ -23,7 +23,7 @@ import java.util.Scanner;
  * 31
  * @author Ryanlin
  */
-public class PiecewiseFunctionCalculation {
+public class PiecewiseFunctionCalculation02 {
 
     //if else / else if
     public static void main(String[] args) {

@@ -3,7 +3,6 @@ package com.wyl.exercises.AlgorithmProblem;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.io.StreamTokenizer;
 
 /**
  * 题目描述
@@ -26,7 +25,7 @@ import java.io.StreamTokenizer;
  * @author Ryanlin
  */
 
-public class DigitalProcessingAndJudgmentStreamTokenized {
+public class DigitalProcessingAndJudgmentStreamTokenized02 {
     public static void main(String[] args) throws IOException {
         BufferedReader st = new BufferedReader(new InputStreamReader(System.in));//把字符流放到字符流缓冲区；把字节流变成字符流 System.in->字节输入流
 

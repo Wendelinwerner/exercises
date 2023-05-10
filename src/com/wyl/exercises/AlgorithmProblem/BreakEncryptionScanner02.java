@@ -1,10 +1,5 @@
 package com.wyl.exercises.AlgorithmProblem;
 
-import javax.xml.transform.stream.StreamResult;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.StreamTokenizer;
 import java.util.Scanner;
 
 /**
@@ -17,7 +12,7 @@ import java.util.Scanner;
  * 字符串，输出字符+4，先转换 int类型 再转换字符（char）类型
  * @author Ryanlin
  */
-public class BreakEncryptionScanner {
+public class BreakEncryptionScanner02 {
     public static void main(String[] args)  {
 
         Scanner sc = new Scanner(System.in);

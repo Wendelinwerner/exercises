@@ -14,7 +14,7 @@ import java.util.Scanner;
  *
  * @author Ryanlin
  */
-public class TemperatureTransform {
+public class TemperatureTransform02 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

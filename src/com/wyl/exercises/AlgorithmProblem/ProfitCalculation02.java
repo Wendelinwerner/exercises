@@ -29,7 +29,7 @@ import java.util.Scanner;
  *
  * @author Ryanlin
  */
-public class ProfitCalculation {
+public class ProfitCalculation02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int lr = sc.nextInt();

@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练一">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/BreakEncryptionScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/DigitalProcessingAndJudgmentStreamTokenized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/GradeJudgment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/PiecewiseFunctionCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ProfitCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/TemperatureTransform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbStreamTokenizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/aAddbStreamTokenized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxStreamTokenized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/abcMaxStreamTokenized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/BreakEncryptionScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/BreakEncryptionScanner02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/DigitalProcessingAndJudgmentStreamTokenized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/DigitalProcessingAndJudgmentStreamTokenized02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/GradeJudgment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/GradeJudgment02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/PiecewiseFunctionCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/PiecewiseFunctionCalculation02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ProfitCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ProfitCalculation02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/TemperatureTransform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/TemperatureTransform02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +107,9 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ProfitCalculation">
-    <configuration name="DigitalProcessingAndJudgmentStreamTokenized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DigitalProcessingAndJudgmentStreamTokenized" />
+  <component name="RunManager" selected="应用程序.ProfitCalculation02">
+    <configuration name="DigitalProcessingAndJudgmentStreamTokenized02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DigitalProcessingAndJudgmentStreamTokenized02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeJudgment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.GradeJudgment" />
+    <configuration name="GradeJudgment02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.GradeJudgment02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PiecewiseFunctionCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.PiecewiseFunctionCalculation" />
+    <configuration name="PiecewiseFunctionCalculation02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.PiecewiseFunctionCalculation02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfitCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.ProfitCalculation" />
+    <configuration name="ProfitCalculation02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.ProfitCalculation02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -165,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureTransform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.TemperatureTransform" />
+    <configuration name="TemperatureTransform02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.TemperatureTransform02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ProfitCalculation" />
-        <item itemvalue="应用程序.DigitalProcessingAndJudgmentStreamTokenized" />
-        <item itemvalue="应用程序.GradeJudgment" />
-        <item itemvalue="应用程序.PiecewiseFunctionCalculation" />
-        <item itemvalue="应用程序.TemperatureTransformStreamTokenized" />
+        <item itemvalue="应用程序.ProfitCalculation02" />
+        <item itemvalue="应用程序.DigitalProcessingAndJudgmentStreamTokenized02" />
+        <item itemvalue="应用程序.GradeJudgment02" />
+        <item itemvalue="应用程序.PiecewiseFunctionCalculation02" />
+        <item itemvalue="应用程序.TemperatureTransform02" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +206,7 @@
       <workItem from="1683339270809" duration="11574000" />
       <workItem from="1683510146765" duration="5089000" />
       <workItem from="1683595293412" duration="8556000" />
-      <workItem from="1683681050796" duration="16804000" />
+      <workItem from="1683681050796" duration="17138000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -283,7 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683618290530</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="算法训练二">
+      <created>1683707529341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683707529341</updated>
+    </task>
+    <task id="LOCAL-00012" summary="算法训练一">
+      <created>1683707616444</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1683707616444</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +329,7 @@
     <MESSAGE value="更新包名" />
     <MESSAGE value="更新项目名" />
     <MESSAGE value="高并发与多线程三" />
+    <MESSAGE value="算法训练二" />
     <MESSAGE value="算法训练一" />
     <option name="LAST_COMMIT_MESSAGE" value="算法训练一" />
   </component>

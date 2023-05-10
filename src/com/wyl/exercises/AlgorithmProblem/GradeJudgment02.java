@@ -20,7 +20,7 @@ import java.util.Scanner;
  *
  * @author Ryanlin
  */
-public class GradeJudgment {
+public class GradeJudgment02 {
 
     //if else
     public static void main(String[] args) {
