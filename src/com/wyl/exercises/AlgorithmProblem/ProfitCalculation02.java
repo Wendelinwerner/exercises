@@ -34,17 +34,17 @@ public class ProfitCalculation02 {
         Scanner sc = new Scanner(System.in);
         int lr = sc.nextInt();
         if(lr <= 100000)    {
-            System.out.println("奖金总数 = " + (lr * 0.1));
+            System.out.println("奖金总数 = " + (int)(lr * 0.1));
         } else if (lr > 100000 && lr <= 200000) {
-            System.out.println("奖金总数 = " + (100000 * 0.1 + (lr-100000) * 0.075));
+            System.out.println("奖金总数 = " + (int)(100000 * 0.1 + (lr-100000) * 0.075));
         } else if (lr >200000 && lr <= 400000) {
-            System.out.println("奖金总数 = " + (100000 * (0.1 + 0.075) + (lr - 200000) * 0.05));
+            System.out.println("奖金总数 = " + (int)(100000 * (0.1 + 0.075) + (lr - 200000) * 0.05));
         } else if (lr >400000 && lr <= 600000) {
-            System.out.println("奖金总数 = " + (100000 * (0.1 + 0.075) + (lr - 400000) * 0.03 + 200000 * 0.05));
+            System.out.println("奖金总数 = " + (int)(100000 * (0.1 + 0.075) + (lr - 400000) * 0.03 + 200000 * 0.05));
         } else if (lr >600000 && lr <= 1000000) {
-            System.out.println("奖金总数 = " + (100000 * (0.1 + 0.075) + (lr - 600000) * 0.015 + 200000 * (0.05+0.03)));
+            System.out.println("奖金总数 = " + (int)(100000 * (0.1 + 0.075) + (lr - 600000) * 0.015 + 200000 * (0.05+0.03)));
         } else if (lr >1000000) {
-            System.out.println("奖金总数 = " + (100000 * (0.1 + 0.075) + (lr - 1000000) * 0.01 + 200000 * (0.05+0.03) + 400000 * 0.015));
+            System.out.println("奖金总数 = " + (int)(100000 * (0.1 + 0.075) + (lr - 1000000) * 0.01 + 200000 * (0.05+0.03) + 400000 * 0.015));
         }
     }
 }
