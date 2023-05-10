@@ -11,7 +11,7 @@ import java.util.Scanner;
  * 可用Math函数求最大值    也 可用表达式
  * @author Ryanlin
  */
-public class abcMaxScanner {
+public class abcMaxScanner01 {
     public static void main(String[] args) {
 
          int[] a = new int[3];

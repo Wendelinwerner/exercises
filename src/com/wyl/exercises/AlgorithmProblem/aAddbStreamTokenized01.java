@@ -12,7 +12,7 @@ import java.io.*;
  * 范围不超过2^10
  * @author  Ryanlin
  */
-public class aAddbStreamTokenized {
+public class aAddbStreamTokenized01 {
 
     public static void main(String[] args) throws IOException {
 

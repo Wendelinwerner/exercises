@@ -1,6 +1,5 @@
 package com.wyl.exercises.AlgorithmProblem;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 /**
@@ -13,7 +12,7 @@ import java.util.Scanner;
  * @author  Ryanlin
  */
 
-public class aAddbScanner {
+public class aAddbScanner01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a,b,c;

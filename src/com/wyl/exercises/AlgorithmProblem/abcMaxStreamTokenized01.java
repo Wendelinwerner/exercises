@@ -12,7 +12,7 @@ import java.io.StreamTokenizer;
  * 一行数组，分别为a b c
  * @author Ryanlin
  */
-public class abcMaxStreamTokenized {
+public class abcMaxStreamTokenized01 {
     public static void main(String[] args) throws IOException {
         int[] a = new int[3];
         StreamTokenizer st = new StreamTokenizer(new BufferedReader(new InputStreamReader(System.in)));
