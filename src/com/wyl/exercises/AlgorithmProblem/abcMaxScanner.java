@@ -2,6 +2,15 @@ package com.wyl.exercises.AlgorithmProblem;
 
 import java.util.Scanner;
 
+/**
+ * 编写一个程序，输入a、b、c三个值，输出其中最大值。
+ *
+ * 输入格式
+ * 一行数组，分别为a b c
+ *
+ * 可用Math函数求最大值    也 可用表达式
+ * @author Ryanlin
+ */
 public class abcMaxScanner {
     public static void main(String[] args) {
 

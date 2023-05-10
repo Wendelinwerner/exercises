@@ -5,6 +5,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StreamTokenizer;
 
+/**
+ * 编写一个程序，输入a、b、c三个值，输出其中最大值。
+ *
+ * 输入格式
+ * 一行数组，分别为a b c
+ * @author Ryanlin
+ */
 public class abcMaxStreamTokenized {
     public static void main(String[] args) throws IOException {
         int[] a = new int[3];
