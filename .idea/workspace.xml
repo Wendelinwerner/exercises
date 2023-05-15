@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练三">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/IPConfig.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练四">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/TomMath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,7 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.IPConfig">
+  <component name="RunManager" selected="应用程序.TomMath">
     <configuration name="DNAPrintln" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DNAPrintln" />
       <module name="exercises" />
@@ -119,19 +119,6 @@
     </configuration>
     <configuration name="DNAPrintln01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DNAPrintln01" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DigitalProcessingAndJudgmentStreamTokenized02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DigitalProcessingAndJudgmentStreamTokenized02" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -169,13 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TomMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.TomMath" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TomMath" />
         <item itemvalue="应用程序.IPConfig" />
         <item itemvalue="应用程序.DNAPrintln01" />
         <item itemvalue="应用程序.DNAPrintln" />
         <item itemvalue="应用程序.ProfitCalculation02" />
-        <item itemvalue="应用程序.DigitalProcessingAndJudgmentStreamTokenized02" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +207,8 @@
       <workItem from="1683775370014" duration="6169000" />
       <workItem from="1683854351382" duration="14147000" />
       <workItem from="1683940987521" duration="3444000" />
+      <workItem from="1683961537366" duration="2734000" />
+      <workItem from="1684114176950" duration="715000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -320,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683862901150</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="算法训练四">
+      <created>1683961628272</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683961628272</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +369,8 @@
     <MESSAGE value="算法训练一" />
     <MESSAGE value="算法训练二" />
     <MESSAGE value="算法训练三" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法训练三" />
+    <MESSAGE value="算法训练四" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法训练四" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
