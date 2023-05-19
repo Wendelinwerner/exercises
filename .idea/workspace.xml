@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练六">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/宏定义练习之三角形面积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/自定义函数求一元二次方程.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练七">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/链表合并.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +103,7 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.宏定义练习之三角形面积">
+  <component name="RunManager" selected="应用程序.链表合并">
     <configuration name="自定义函数之字符提取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.自定义函数之字符提取" />
       <module name="exercises" />
@@ -131,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DNAPrintln01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.DNAPrintln01" />
+    <configuration name="链表合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.链表合并" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -198,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.链表合并" />
         <item itemvalue="应用程序.宏定义练习之三角形面积" />
         <item itemvalue="应用程序.自定义函数之字符提取" />
         <item itemvalue="应用程序.TomMath" />
         <item itemvalue="应用程序.IPConfig" />
-        <item itemvalue="应用程序.DNAPrintln01" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,7 @@
       <workItem from="1683961537366" duration="2734000" />
       <workItem from="1684114176950" duration="13624000" />
       <workItem from="1684292407541" duration="9703000" />
-      <workItem from="1684373457064" duration="2750000" />
+      <workItem from="1684373457064" duration="7255000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -379,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684229383263</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="算法训练七">
+      <created>1684383623358</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684383623358</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,7 +428,8 @@
     <MESSAGE value="算法训练四" />
     <MESSAGE value="算法训练五" />
     <MESSAGE value="算法训练六" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法训练六" />
+    <MESSAGE value="算法训练七" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法训练七" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
