@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练七">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/链表合并.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练八">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/矩形面积相交.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,7 +236,7 @@
       <workItem from="1683961537366" duration="2734000" />
       <workItem from="1684114176950" duration="13624000" />
       <workItem from="1684292407541" duration="9703000" />
-      <workItem from="1684373457064" duration="7255000" />
+      <workItem from="1684373457064" duration="14118000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -385,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684383623358</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="算法训练八">
+      <created>1684488533266</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684488533266</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +436,8 @@
     <MESSAGE value="算法训练五" />
     <MESSAGE value="算法训练六" />
     <MESSAGE value="算法训练七" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法训练七" />
+    <MESSAGE value="算法训练八" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法训练八" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
