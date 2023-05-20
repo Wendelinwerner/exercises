@@ -29,6 +29,6 @@ public class 矩形面积相交 {
             x[i] = sc.nextDouble();
             y[i] = sc.nextDouble();
         }
-
+//        Math.min(Math.max(x[0],x[1]));
     }
 }

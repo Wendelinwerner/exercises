@@ -21,7 +21,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class ReentrantLockTest04 extends Thread {
 
-        private static ReentrantLock lock = new ReentrantLock(true);
+        private static ReentrantLock lock = new ReentrantLock(true);//随机（）与排队（true）
 
         public void run() {
             for (int i = 0; i < 100 ; i++){
