@@ -18,7 +18,7 @@ public class PhaserTest {
 
     public static void main(String[] args) {
         phaser.bulkRegister(7);
-        for (int i = 0 ; i < 7 ; i++) {
+        for (int i = 0 ; i < 5 ; i++) {
 //            int finalI = i;
                 new Thread(new Person("p" + i)).start();
         }
@@ -44,7 +44,7 @@ public class PhaserTest {
                     return false;
                 case 3:
                     System.out.println("婚礼结束！新郎新娘抱抱！" + registeredParties);
-                    return false;
+                    return true;
                 default:
                     return true;
             }
@@ -61,19 +61,19 @@ public class PhaserTest {
         public void arrive() {
             milliSleep(r.nextInt(1000));
             System.out.printf("%s 到达现场！\n",name);
-            phaser.arriveAndDeregister();
+            phaser.arriveAndAwaitAdvance();
         }
 
         public void eat() {
             milliSleep(r.nextInt(1000));
             System.out.printf("%s 吃完！\n",name);
-            phaser.arriveAndDeregister();
+            phaser.arriveAndAwaitAdvance();
         }
 
         public void leave() {
             milliSleep(r.nextInt(1000));
             System.out.printf("%s 离开！\n",name);
-            phaser.arriveAndDeregister();
+            phaser.arriveAndAwaitAdvance();
         }
 
         private void hug()  {
@@ -96,6 +96,4 @@ public class PhaserTest {
             hug();
         }
     }
-
-
 }

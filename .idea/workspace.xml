@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发（三）">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/CyclicBarrierText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/PhaserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReadWriteLockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/PhaserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/PhaserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,20 +103,7 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.PhaserTest">
-    <configuration name="自定义函数之字符提取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.自定义函数之字符提取" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.ReadWriteLockTest">
     <configuration name="CountdownLatchText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.CountdownLatchText" />
       <module name="exercises" />
@@ -145,6 +132,19 @@
     </configuration>
     <configuration name="PhaserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.PhaserTest" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReadWriteLockTest" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
@@ -223,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ReadWriteLockTest" />
         <item itemvalue="应用程序.PhaserTest" />
         <item itemvalue="应用程序.CyclicBarrierText" />
         <item itemvalue="应用程序.CountdownLatchText" />
         <item itemvalue="应用程序.ReentrantLockTest04" />
-        <item itemvalue="应用程序.自定义函数之字符提取" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,7 @@
       <workItem from="1684373457064" duration="21274000" />
       <workItem from="1684717812630" duration="3007000" />
       <workItem from="1684815431949" duration="15967000" />
-      <workItem from="1685071737389" duration="819000" />
+      <workItem from="1685071737389" duration="5675000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -435,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684574758359</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="多线程与高并发（三）">
+      <created>1685074756287</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685074756287</updated>
+    </task>
+    <task id="LOCAL-00026" summary="多线程与高并发（三）">
+      <created>1685074875702</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685074875702</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
