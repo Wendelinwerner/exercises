@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="算法训练九">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/CountdownLatchText.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发（三）">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/CyclicBarrierText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/PhaserTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/矩形面积相交.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/矩形面积相交.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/THIRDduoxiancheng/ReentrantLockTest04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +103,65 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.CountdownLatchText">
+  <component name="RunManager" selected="应用程序.PhaserTest">
     <configuration name="自定义函数之字符提取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.自定义函数之字符提取" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountdownLatchText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.CountdownLatchText" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.CyclicBarrierText" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhaserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.PhaserTest" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReentrantLockTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest04" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,32 +188,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountdownLatchText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.CountdownLatchText" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReentrantLockTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.THIRDduoxiancheng.ReentrantLockTest04" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.THIRDduoxiancheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,10 +223,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PhaserTest" />
+        <item itemvalue="应用程序.CyclicBarrierText" />
         <item itemvalue="应用程序.CountdownLatchText" />
         <item itemvalue="应用程序.ReentrantLockTest04" />
-        <item itemvalue="应用程序.链表合并" />
-        <item itemvalue="应用程序.宏定义练习之三角形面积" />
         <item itemvalue="应用程序.自定义函数之字符提取" />
       </list>
     </recent_temporary>
@@ -237,7 +262,10 @@
       <workItem from="1683961537366" duration="2734000" />
       <workItem from="1684114176950" duration="13624000" />
       <workItem from="1684292407541" duration="9703000" />
-      <workItem from="1684373457064" duration="20444000" />
+      <workItem from="1684373457064" duration="21274000" />
+      <workItem from="1684717812630" duration="3007000" />
+      <workItem from="1684815431949" duration="15967000" />
+      <workItem from="1685071737389" duration="819000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -400,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684565024391</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="多线程与高并发（三）">
+      <created>1684574758358</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1684574758359</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +481,8 @@
     <MESSAGE value="算法训练七" />
     <MESSAGE value="算法训练八" />
     <MESSAGE value="算法训练九" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法训练九" />
+    <MESSAGE value="多线程与高并发（三）" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程与高并发（三）" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
