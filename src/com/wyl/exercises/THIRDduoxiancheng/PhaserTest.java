@@ -2,7 +2,6 @@ package com.wyl.exercises.THIRDduoxiancheng;
 
 import java.util.Random;
 import java.util.concurrent.Phaser;
-import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 public class PhaserTest {
