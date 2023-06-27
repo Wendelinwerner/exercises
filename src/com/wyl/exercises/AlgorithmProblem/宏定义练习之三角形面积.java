@@ -2,6 +2,8 @@ package com.wyl.exercises.AlgorithmProblem;
 
 import java.util.Scanner;
 
+import static java.lang.Math.*;
+
 /**
  * 题目描述
  * 三角形面积=SQRT(S*(S-a)*(S-b)*(S-c)) 其中S=(a+b+c)/2，a、b、c为三角形的三边。 定义两个带参的宏，一个用来求area， 另一个宏用来求S。 写程序，在程序中用带实参的宏名来求面积area。
@@ -32,6 +34,6 @@ public class 宏定义练习之三角形面积 {
 
     public static double getArea(double a,double b, double c)   {
         double result = getPerimeter(a,b,c);
-        return Math.sqrt(result * (result - a) * (result - b) * (result - c));
+        return sqrt(result * (result - a) * (result - b) * (result - c));
     }
 }
