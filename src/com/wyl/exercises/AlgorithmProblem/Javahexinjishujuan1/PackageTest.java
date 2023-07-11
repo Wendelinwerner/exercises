@@ -1,0 +1,15 @@
+import com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.Employee;
+
+import static java.lang.System.*;
+public class PackageTest {
+    public static void main(String[] args) {
+        //because of the import statement, we don't have to use
+        //com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1
+        var harry = new Employee("Harry Hacker", 50000, 1989, 10, 1);
+
+        harry.raiseSalary(5);
+
+        //because of the static import statement, we don't have to use System.out here
+        out.println("name = " + harry.getName() + ",salary = " + harry.getSalary());
+    }
+}

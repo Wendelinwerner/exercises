@@ -1,4 +1,4 @@
-package com.wyl.exercises.AlgorithmProblem;
+package com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1;
 
 /**
  * This program demonstrates parameter passing in java.

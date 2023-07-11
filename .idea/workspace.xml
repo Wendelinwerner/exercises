@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="多线程与高并发（三）">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/BigIntegerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/CanlendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ConstructorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/LotteryArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/LotteryDrawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ParamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/StaticTest.java" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="Java核心技术卷 1 案列练习">
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/PackageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/inheritance/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/inheritance/ManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/宏定义练习之三角形面积.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/宏定义练习之三角形面积.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/BigIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/CanlendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/CanlendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/ParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/Javahexinjishujuan1/StaticTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +111,13 @@
       <recent name="com.wyl.exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.ConstructorTest">
-    <configuration name="ConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.ConstructorTest" />
+  <component name="RunManager" selected="应用程序.ManagerTest">
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.inheritance.ManagerTest" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,38 +125,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.LotteryArray" />
+    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.PackageTest" />
       <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LotteryDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.LotteryDrawing" />
-      <module name="exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ParamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.ParamTest" />
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.ParamTest" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +146,24 @@
       </method>
     </configuration>
     <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.StaticTest" />
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.StaticTest" />
       <module name="exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.*" />
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.PackageTest" />
+      <module name="exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ConstructorTest" />
-        <item itemvalue="应用程序.ParamTest" />
+        <item itemvalue="应用程序.ManagerTest" />
+        <item itemvalue="应用程序.com.wyl.exercises.AlgorithmProblem.Javahexinjishujuan1.PackageTest" />
         <item itemvalue="应用程序.StaticTest" />
-        <item itemvalue="应用程序.LotteryDrawing" />
-        <item itemvalue="应用程序.LotteryArray" />
+        <item itemvalue="应用程序.ParamTest" />
+        <item itemvalue="应用程序.PackageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +230,15 @@
       <workItem from="1687246761360" duration="3961000" />
       <workItem from="1687662557647" duration="2869000" />
       <workItem from="1687746603144" duration="6207000" />
-      <workItem from="1687828788898" duration="3661000" />
+      <workItem from="1687828788898" duration="10503000" />
+      <workItem from="1687916007593" duration="3973000" />
+      <workItem from="1688005178212" duration="1806000" />
+      <workItem from="1688109866386" duration="147000" />
+      <workItem from="1688110025073" duration="603000" />
+      <workItem from="1688612711105" duration="2460000" />
+      <workItem from="1688694516198" duration="1213000" />
+      <workItem from="1688785965312" duration="2518000" />
+      <workItem from="1688952656830" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -426,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685088166285</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java核心技术卷 1 案列练习">
+      <created>1687836543149</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1687836543149</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,7 +483,8 @@
     <MESSAGE value="算法训练八" />
     <MESSAGE value="算法训练九" />
     <MESSAGE value="多线程与高并发（三）" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程与高并发（三）" />
+    <MESSAGE value="Java核心技术卷 1 案列练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java核心技术卷 1 案列练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
