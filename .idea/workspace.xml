@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="Java核心技术卷 1 案列练习">
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/jianzhioffer/TextView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/jianzhioffer/shuzhizifuchuan20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="928a3b8a-55da-48c7-bb91-9bda709a4eb9" name="变更" comment="剑指offer练习">
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/exercises/AlgorithmProblem/jianzhioffer/TextView.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +250,7 @@
       <workItem from="1693279455459" duration="227000" />
       <workItem from="1693279697340" duration="13216000" />
       <workItem from="1693899371118" duration="126000" />
-      <workItem from="1699671761764" duration="742000" />
+      <workItem from="1699671761764" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="多线程与高并发">
       <created>1681977679013</created>
@@ -466,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689327563441</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="剑指offer练习">
+      <option name="closed" value="true" />
+      <created>1699672527504</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699672527504</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +519,8 @@
     <MESSAGE value="算法训练九" />
     <MESSAGE value="多线程与高并发（三）" />
     <MESSAGE value="Java核心技术卷 1 案列练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java核心技术卷 1 案列练习" />
+    <MESSAGE value="剑指offer练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
